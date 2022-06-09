@@ -1,0 +1,14 @@
+.item-container {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: flex-start;
+    column-gap: 5px;
+
+    production-item {
+        display: flex;
+        flex-shrink: 1;
+    }
+}

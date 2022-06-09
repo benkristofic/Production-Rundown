@@ -1,0 +1,19 @@
+{
+    "vox": {
+        "red": "elaina",
+        "white": "lia",
+        "green": "jon",
+        "yellow": "max"
+    },
+    "band": {
+        "eletric1": "henry",
+        "bass": "max",
+        "acoustic": "jon",
+        "keys": "carlos",
+        "drums": "jordan"
+    },
+    "service": {
+        "annoucements": "bran",
+        "preach": "josiah"
+    }
+}
